@@ -2214,7 +2214,7 @@ for(var i = 0, len = gdjs.IntroCode.GDInteractionObjects1.length ;i < len;++i) {
 }{for(var i = 0, len = gdjs.IntroCode.GDTextBox2Objects1.length ;i < len;++i) {
     gdjs.IntroCode.GDTextBox2Objects1[i].hide();
 }
-}{gdjs.evtTools.sound.playMusic(runtimeScene, "2019-01-02_-_8_Bit_Menu_-_David_Renda_-_FesliyanStudios.com.mp3", true, 50, 1);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "music.mp3", true, 50, 1);
 }{for(var i = 0, len = gdjs.IntroCode.GDDPadBottomObjects1.length ;i < len;++i) {
     gdjs.IntroCode.GDDPadBottomObjects1[i].setOpacity(175);
 }
